@@ -1,4 +1,3 @@
 # Fullstack
 
-## Fullstack Course
-https://github.com/jhu-ep-coursera/fullstack-course4
+[Fullstack Course](https://github.com/jhu-ep-coursera/fullstack-course4)

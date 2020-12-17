@@ -1,4 +1,3 @@
 # Icons
 
-## Font Awesome
-https://fontawesome.com/
+[Font Awesome](https://fontawesome.com/)

@@ -1,7 +1,5 @@
 # Blogs sobre tecnologia e desenvolvimento
 
-## Dev.to
-https://dev.to/
+[Dev.to](https://dev.to/)
 
-## TreinaWeb
-https://www.treinaweb.com.br/blog/
+[TreinaWeb](https://www.treinaweb.com.br/blog/)
