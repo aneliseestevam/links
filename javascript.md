@@ -19,3 +19,8 @@
 [Ultimate Road Map to Study JavaScript : Basics to Advanced](https://dev.to/zinox9/road-map-to-study-javascript-4o3c?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
 [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+
+[Entendendo classes no Javascript](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript-pt)
+
+[Proposal Class Fields](https://github.com/tc39/proposal-class-fields#private-fields)
+
